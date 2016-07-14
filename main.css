@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .number{
     width:41px;
     height:41px;
@@ -33,3 +34,40 @@
 .content_title{
     font-family: DFKai-SB, BiauKai, arial;
 }
+=======
+.number{
+    width:41px;
+    height:41px;
+    border-radius:50%;
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 41px;
+    background-color:gold
+}
+
+.special_number{
+    width:41px;
+    height:41px;
+    border-radius:50%;
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 41px;
+    background-color:red;
+    color: white
+}
+.outside_table{
+    background-color: beige
+}
+.content_title2{
+    color: red;
+        font-family: DFKai-SB, BiauKai, arial;
+
+}
+.content_title{
+    font-family: DFKai-SB, BiauKai, arial;
+}
+>>>>>>> 71d1d1f0da2f8c838e6b42d1a03863643bc87985
