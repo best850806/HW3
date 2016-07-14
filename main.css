@@ -1,0 +1,36 @@
+.number{
+    width:41px;
+    height:41px;
+    border-radius:50%;
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 41px;
+    background-color:gold
+}
+td, th{
+    vertical-align: inherit
+}
+.special_number{
+    width:41px;
+    height:41px;
+    border-radius:50%;
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 41px;
+    background-color:red
+}
+.outside_table{
+    background-color: beige
+}
+.content_title2{
+    color: red;
+        font-family: DFKai-SB, BiauKai, arial;
+
+}
+.content_title{
+    font-family: DFKai-SB, BiauKai, arial;
+}
