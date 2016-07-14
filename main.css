@@ -9,9 +9,7 @@
     line-height: 41px;
     background-color:gold
 }
-td, th{
-    vertical-align: inherit
-}
+
 .special_number{
     width:41px;
     height:41px;
@@ -21,7 +19,8 @@ td, th{
     font-weight: bolder;
     text-align: center;
     line-height: 41px;
-    background-color:red
+    background-color:red;
+    color: white
 }
 .outside_table{
     background-color: beige
